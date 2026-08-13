@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/AdityaLoops/leetcode/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [1130-minimum-cost-tree-from-leaf-values](https://github.com/AdityaLoops/leetcode/tree/master/1130-minimum-cost-tree-from-leaf-values) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/AdityaLoops/leetcode/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/AdityaLoops/leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/AdityaLoops/leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/AdityaLoops/leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Dynamic Programming
@@ -83,4 +84,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/AdityaLoops/leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+## String
+|  |
+| ------- |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/AdityaLoops/leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
+## Segment Tree
+|  |
+| ------- |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/AdityaLoops/leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
+## Ordered Set
+|  |
+| ------- |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/AdityaLoops/leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
 <!---LeetCode Topics End-->
