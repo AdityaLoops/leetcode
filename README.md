@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/AdityaLoops/leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [1130-minimum-cost-tree-from-leaf-values](https://github.com/AdityaLoops/leetcode/tree/master/1130-minimum-cost-tree-from-leaf-values) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/AdityaLoops/leetcode/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
+| [1386-cinema-seat-allocation](https://github.com/AdityaLoops/leetcode/tree/master/1386-cinema-seat-allocation) |
 | [1563-stone-game-v](https://github.com/AdityaLoops/leetcode/tree/master/1563-stone-game-v) |
 | [1770-maximum-score-from-performing-multiplication-operations](https://github.com/AdityaLoops/leetcode/tree/master/1770-maximum-score-from-performing-multiplication-operations) |
 | [2029-stone-game-ix](https://github.com/AdityaLoops/leetcode/tree/master/2029-stone-game-ix) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/AdityaLoops/leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [1130-minimum-cost-tree-from-leaf-values](https://github.com/AdityaLoops/leetcode/tree/master/1130-minimum-cost-tree-from-leaf-values) |
+| [1386-cinema-seat-allocation](https://github.com/AdityaLoops/leetcode/tree/master/1386-cinema-seat-allocation) |
 | [2029-stone-game-ix](https://github.com/AdityaLoops/leetcode/tree/master/2029-stone-game-ix) |
 ## Monotonic Stack
 |  |
@@ -52,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0869-reordered-power-of-2](https://github.com/AdityaLoops/leetcode/tree/master/0869-reordered-power-of-2) |
+| [1386-cinema-seat-allocation](https://github.com/AdityaLoops/leetcode/tree/master/1386-cinema-seat-allocation) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/AdityaLoops/leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/AdityaLoops/leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/AdityaLoops/leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -124,5 +127,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [1386-cinema-seat-allocation](https://github.com/AdityaLoops/leetcode/tree/master/1386-cinema-seat-allocation) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/AdityaLoops/leetcode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 <!---LeetCode Topics End-->
