@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0576-out-of-boundary-paths](https://github.com/AdityaLoops/leetcode/tree/master/0576-out-of-boundary-paths) |
 | [0650-2-keys-keyboard](https://github.com/AdityaLoops/leetcode/tree/master/0650-2-keys-keyboard) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/AdityaLoops/leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [1025-divisor-game](https://github.com/AdityaLoops/leetcode/tree/master/1025-divisor-game) |
 | [1130-minimum-cost-tree-from-leaf-values](https://github.com/AdityaLoops/leetcode/tree/master/1130-minimum-cost-tree-from-leaf-values) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/AdityaLoops/leetcode/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1510-stone-game-iv](https://github.com/AdityaLoops/leetcode/tree/master/1510-stone-game-iv) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0096-unique-binary-search-trees](https://github.com/AdityaLoops/leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0650-2-keys-keyboard](https://github.com/AdityaLoops/leetcode/tree/master/0650-2-keys-keyboard) |
 | [0869-reordered-power-of-2](https://github.com/AdityaLoops/leetcode/tree/master/0869-reordered-power-of-2) |
+| [1025-divisor-game](https://github.com/AdityaLoops/leetcode/tree/master/1025-divisor-game) |
 | [1510-stone-game-iv](https://github.com/AdityaLoops/leetcode/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/AdityaLoops/leetcode/tree/master/1563-stone-game-v) |
 | [2029-stone-game-ix](https://github.com/AdityaLoops/leetcode/tree/master/2029-stone-game-ix) |
@@ -92,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Game Theory
 |  |
 | ------- |
+| [1025-divisor-game](https://github.com/AdityaLoops/leetcode/tree/master/1025-divisor-game) |
 | [1510-stone-game-iv](https://github.com/AdityaLoops/leetcode/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/AdityaLoops/leetcode/tree/master/1563-stone-game-v) |
 | [2029-stone-game-ix](https://github.com/AdityaLoops/leetcode/tree/master/2029-stone-game-ix) |
@@ -148,4 +151,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/AdityaLoops/leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
+## Brainteaser
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/AdityaLoops/leetcode/tree/master/1025-divisor-game) |
+## Impartial Game
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/AdityaLoops/leetcode/tree/master/1025-divisor-game) |
 <!---LeetCode Topics End-->
