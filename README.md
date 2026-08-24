@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/AdityaLoops/leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/AdityaLoops/leetcode/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
+| [0338-counting-bits](https://github.com/AdityaLoops/leetcode/tree/master/0338-counting-bits) |
 | [0576-out-of-boundary-paths](https://github.com/AdityaLoops/leetcode/tree/master/0576-out-of-boundary-paths) |
 | [0650-2-keys-keyboard](https://github.com/AdityaLoops/leetcode/tree/master/0650-2-keys-keyboard) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/AdityaLoops/leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0338-counting-bits](https://github.com/AdityaLoops/leetcode/tree/master/0338-counting-bits) |
 | [1386-cinema-seat-allocation](https://github.com/AdityaLoops/leetcode/tree/master/1386-cinema-seat-allocation) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/AdityaLoops/leetcode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Tree
