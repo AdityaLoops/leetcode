@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/AdityaLoops/leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/AdityaLoops/leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/AdityaLoops/leetcode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
+| [3875-construct-uniform-parity-array-i](https://github.com/AdityaLoops/leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1510-stone-game-iv](https://github.com/AdityaLoops/leetcode/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/AdityaLoops/leetcode/tree/master/1563-stone-game-v) |
 | [2029-stone-game-ix](https://github.com/AdityaLoops/leetcode/tree/master/2029-stone-game-ix) |
+| [3875-construct-uniform-parity-array-i](https://github.com/AdityaLoops/leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 ## Sorting
 |  |
 | ------- |
