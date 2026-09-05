@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/AdityaLoops/leetcode/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/AdityaLoops/leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [0801-minimum-swaps-to-make-sequences-increasing](https://github.com/AdityaLoops/leetcode/tree/master/0801-minimum-swaps-to-make-sequences-increasing) |
 | [1130-minimum-cost-tree-from-leaf-values](https://github.com/AdityaLoops/leetcode/tree/master/1130-minimum-cost-tree-from-leaf-values) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/AdityaLoops/leetcode/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/AdityaLoops/leetcode/tree/master/1235-maximum-profit-in-job-scheduling) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0650-2-keys-keyboard](https://github.com/AdityaLoops/leetcode/tree/master/0650-2-keys-keyboard) |
 | [0688-knight-probability-in-chessboard](https://github.com/AdityaLoops/leetcode/tree/master/0688-knight-probability-in-chessboard) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/AdityaLoops/leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [0801-minimum-swaps-to-make-sequences-increasing](https://github.com/AdityaLoops/leetcode/tree/master/0801-minimum-swaps-to-make-sequences-increasing) |
 | [0837-new-21-game](https://github.com/AdityaLoops/leetcode/tree/master/0837-new-21-game) |
 | [1025-divisor-game](https://github.com/AdityaLoops/leetcode/tree/master/1025-divisor-game) |
 | [1130-minimum-cost-tree-from-leaf-values](https://github.com/AdityaLoops/leetcode/tree/master/1130-minimum-cost-tree-from-leaf-values) |
