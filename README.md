@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/AdityaLoops/leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/AdityaLoops/leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/AdityaLoops/leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/AdityaLoops/leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/AdityaLoops/leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/AdityaLoops/leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/AdityaLoops/leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1510-stone-game-iv](https://github.com/AdityaLoops/leetcode/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/AdityaLoops/leetcode/tree/master/1563-stone-game-v) |
 | [1770-maximum-score-from-performing-multiplication-operations](https://github.com/AdityaLoops/leetcode/tree/master/1770-maximum-score-from-performing-multiplication-operations) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/AdityaLoops/leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Stack
 |  |
 | ------- |
@@ -103,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0869-reordered-power-of-2](https://github.com/AdityaLoops/leetcode/tree/master/0869-reordered-power-of-2) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/AdityaLoops/leetcode/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/AdityaLoops/leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/AdityaLoops/leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Counting
 |  |
 | ------- |
@@ -181,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/AdityaLoops/leetcode/tree/master/0096-unique-binary-search-trees) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/AdityaLoops/leetcode/tree/master/1235-maximum-profit-in-job-scheduling) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/AdityaLoops/leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Binary Tree
 |  |
 | ------- |
