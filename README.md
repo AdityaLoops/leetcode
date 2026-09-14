@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0096-unique-binary-search-trees](https://github.com/AdityaLoops/leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0375-guess-number-higher-or-lower-ii](https://github.com/AdityaLoops/leetcode/tree/master/0375-guess-number-higher-or-lower-ii) |
 | [0650-2-keys-keyboard](https://github.com/AdityaLoops/leetcode/tree/master/0650-2-keys-keyboard) |
+| [0836-rectangle-overlap](https://github.com/AdityaLoops/leetcode/tree/master/0836-rectangle-overlap) |
 | [0837-new-21-game](https://github.com/AdityaLoops/leetcode/tree/master/0837-new-21-game) |
 | [0869-reordered-power-of-2](https://github.com/AdityaLoops/leetcode/tree/master/0869-reordered-power-of-2) |
 | [1025-divisor-game](https://github.com/AdityaLoops/leetcode/tree/master/1025-divisor-game) |
@@ -237,4 +238,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3483-unique-3-digit-even-numbers](https://github.com/AdityaLoops/leetcode/tree/master/3483-unique-3-digit-even-numbers) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/AdityaLoops/leetcode/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
