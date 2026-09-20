@@ -166,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0940-distinct-subsequences-ii](https://github.com/AdityaLoops/leetcode/tree/master/0940-distinct-subsequences-ii) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/AdityaLoops/leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/AdityaLoops/leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3498-reverse-degree-of-a-string](https://github.com/AdityaLoops/leetcode/tree/master/3498-reverse-degree-of-a-string) |
 ## Segment Tree
 |  |
 | ------- |
@@ -201,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/AdityaLoops/leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3498-reverse-degree-of-a-string](https://github.com/AdityaLoops/leetcode/tree/master/3498-reverse-degree-of-a-string) |
 ## Brainteaser
 |  |
 | ------- |
