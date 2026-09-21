@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/AdityaLoops/leetcode/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0338-counting-bits](https://github.com/AdityaLoops/leetcode/tree/master/0338-counting-bits) |
 | [0375-guess-number-higher-or-lower-ii](https://github.com/AdityaLoops/leetcode/tree/master/0375-guess-number-higher-or-lower-ii) |
+| [0392-is-subsequence](https://github.com/AdityaLoops/leetcode/tree/master/0392-is-subsequence) |
 | [0576-out-of-boundary-paths](https://github.com/AdityaLoops/leetcode/tree/master/0576-out-of-boundary-paths) |
 | [0650-2-keys-keyboard](https://github.com/AdityaLoops/leetcode/tree/master/0650-2-keys-keyboard) |
 | [0688-knight-probability-in-chessboard](https://github.com/AdityaLoops/leetcode/tree/master/0688-knight-probability-in-chessboard) |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0115-distinct-subsequences](https://github.com/AdityaLoops/leetcode/tree/master/0115-distinct-subsequences) |
+| [0392-is-subsequence](https://github.com/AdityaLoops/leetcode/tree/master/0392-is-subsequence) |
 | [0567-permutation-in-string](https://github.com/AdityaLoops/leetcode/tree/master/0567-permutation-in-string) |
 | [0940-distinct-subsequences-ii](https://github.com/AdityaLoops/leetcode/tree/master/0940-distinct-subsequences-ii) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/AdityaLoops/leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
@@ -218,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0392-is-subsequence](https://github.com/AdityaLoops/leetcode/tree/master/0392-is-subsequence) |
 | [0567-permutation-in-string](https://github.com/AdityaLoops/leetcode/tree/master/0567-permutation-in-string) |
 ## Linked List
 |  |
