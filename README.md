@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/AdityaLoops/leetcode/tree/master/0724-find-pivot-index) |
 | [0801-minimum-swaps-to-make-sequences-increasing](https://github.com/AdityaLoops/leetcode/tree/master/0801-minimum-swaps-to-make-sequences-increasing) |
 | [0835-image-overlap](https://github.com/AdityaLoops/leetcode/tree/master/0835-image-overlap) |
+| [0879-profitable-schemes](https://github.com/AdityaLoops/leetcode/tree/master/0879-profitable-schemes) |
 | [1130-minimum-cost-tree-from-leaf-values](https://github.com/AdityaLoops/leetcode/tree/master/1130-minimum-cost-tree-from-leaf-values) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/AdityaLoops/leetcode/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/AdityaLoops/leetcode/tree/master/1235-maximum-profit-in-job-scheduling) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/AdityaLoops/leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0801-minimum-swaps-to-make-sequences-increasing](https://github.com/AdityaLoops/leetcode/tree/master/0801-minimum-swaps-to-make-sequences-increasing) |
 | [0837-new-21-game](https://github.com/AdityaLoops/leetcode/tree/master/0837-new-21-game) |
+| [0879-profitable-schemes](https://github.com/AdityaLoops/leetcode/tree/master/0879-profitable-schemes) |
 | [0940-distinct-subsequences-ii](https://github.com/AdityaLoops/leetcode/tree/master/0940-distinct-subsequences-ii) |
 | [1025-divisor-game](https://github.com/AdityaLoops/leetcode/tree/master/1025-divisor-game) |
 | [1130-minimum-cost-tree-from-leaf-values](https://github.com/AdityaLoops/leetcode/tree/master/1130-minimum-cost-tree-from-leaf-values) |
@@ -257,4 +259,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0836-rectangle-overlap](https://github.com/AdityaLoops/leetcode/tree/master/0836-rectangle-overlap) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/AdityaLoops/leetcode/tree/master/1401-circle-and-rectangle-overlapping) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0879-profitable-schemes](https://github.com/AdityaLoops/leetcode/tree/master/0879-profitable-schemes) |
+## 0-1 Knapsack
+|  |
+| ------- |
+| [0879-profitable-schemes](https://github.com/AdityaLoops/leetcode/tree/master/0879-profitable-schemes) |
 <!---LeetCode Topics End-->
