@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0856-score-of-parentheses](https://github.com/AdityaLoops/leetcode/tree/master/0856-score-of-parentheses) |
 | [1130-minimum-cost-tree-from-leaf-values](https://github.com/AdityaLoops/leetcode/tree/master/1130-minimum-cost-tree-from-leaf-values) |
 ## Greedy
 |  |
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0115-distinct-subsequences](https://github.com/AdityaLoops/leetcode/tree/master/0115-distinct-subsequences) |
 | [0392-is-subsequence](https://github.com/AdityaLoops/leetcode/tree/master/0392-is-subsequence) |
 | [0567-permutation-in-string](https://github.com/AdityaLoops/leetcode/tree/master/0567-permutation-in-string) |
+| [0856-score-of-parentheses](https://github.com/AdityaLoops/leetcode/tree/master/0856-score-of-parentheses) |
 | [0940-distinct-subsequences-ii](https://github.com/AdityaLoops/leetcode/tree/master/0940-distinct-subsequences-ii) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/AdityaLoops/leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/AdityaLoops/leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -276,4 +278,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0337-house-robber-iii](https://github.com/AdityaLoops/leetcode/tree/master/0337-house-robber-iii) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0856-score-of-parentheses](https://github.com/AdityaLoops/leetcode/tree/master/0856-score-of-parentheses) |
 <!---LeetCode Topics End-->
