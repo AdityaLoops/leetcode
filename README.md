@@ -286,4 +286,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0856-score-of-parentheses](https://github.com/AdityaLoops/leetcode/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/AdityaLoops/leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/AdityaLoops/leetcode/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
