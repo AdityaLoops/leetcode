@@ -176,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0115-distinct-subsequences](https://github.com/AdityaLoops/leetcode/tree/master/0115-distinct-subsequences) |
+| [0125-valid-palindrome](https://github.com/AdityaLoops/leetcode/tree/master/0125-valid-palindrome) |
 | [0392-is-subsequence](https://github.com/AdityaLoops/leetcode/tree/master/0392-is-subsequence) |
 | [0567-permutation-in-string](https://github.com/AdityaLoops/leetcode/tree/master/0567-permutation-in-string) |
 | [0856-score-of-parentheses](https://github.com/AdityaLoops/leetcode/tree/master/0856-score-of-parentheses) |
@@ -237,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/AdityaLoops/leetcode/tree/master/0125-valid-palindrome) |
 | [0392-is-subsequence](https://github.com/AdityaLoops/leetcode/tree/master/0392-is-subsequence) |
 | [0567-permutation-in-string](https://github.com/AdityaLoops/leetcode/tree/master/0567-permutation-in-string) |
 ## Linked List
