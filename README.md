@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1563-stone-game-v](https://github.com/AdityaLoops/leetcode/tree/master/1563-stone-game-v) |
 | [1770-maximum-score-from-performing-multiplication-operations](https://github.com/AdityaLoops/leetcode/tree/master/1770-maximum-score-from-performing-multiplication-operations) |
 | [2029-stone-game-ix](https://github.com/AdityaLoops/leetcode/tree/master/2029-stone-game-ix) |
+| [2140-solving-questions-with-brainpower](https://github.com/AdityaLoops/leetcode/tree/master/2140-solving-questions-with-brainpower) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/AdityaLoops/leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/AdityaLoops/leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/AdityaLoops/leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1563-stone-game-v](https://github.com/AdityaLoops/leetcode/tree/master/1563-stone-game-v) |
 | [1638-count-substrings-that-differ-by-one-character](https://github.com/AdityaLoops/leetcode/tree/master/1638-count-substrings-that-differ-by-one-character) |
 | [1770-maximum-score-from-performing-multiplication-operations](https://github.com/AdityaLoops/leetcode/tree/master/1770-maximum-score-from-performing-multiplication-operations) |
+| [2140-solving-questions-with-brainpower](https://github.com/AdityaLoops/leetcode/tree/master/2140-solving-questions-with-brainpower) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/AdityaLoops/leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Stack
 |  |
