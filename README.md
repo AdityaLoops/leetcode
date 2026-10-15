@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0801-minimum-swaps-to-make-sequences-increasing](https://github.com/AdityaLoops/leetcode/tree/master/0801-minimum-swaps-to-make-sequences-increasing) |
 | [0835-image-overlap](https://github.com/AdityaLoops/leetcode/tree/master/0835-image-overlap) |
 | [0879-profitable-schemes](https://github.com/AdityaLoops/leetcode/tree/master/0879-profitable-schemes) |
+| [0904-fruit-into-baskets](https://github.com/AdityaLoops/leetcode/tree/master/0904-fruit-into-baskets) |
 | [1130-minimum-cost-tree-from-leaf-values](https://github.com/AdityaLoops/leetcode/tree/master/1130-minimum-cost-tree-from-leaf-values) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/AdityaLoops/leetcode/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/AdityaLoops/leetcode/tree/master/1235-maximum-profit-in-job-scheduling) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/AdityaLoops/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/AdityaLoops/leetcode/tree/master/0567-permutation-in-string) |
 | [0869-reordered-power-of-2](https://github.com/AdityaLoops/leetcode/tree/master/0869-reordered-power-of-2) |
+| [0904-fruit-into-baskets](https://github.com/AdityaLoops/leetcode/tree/master/0904-fruit-into-baskets) |
 | [1386-cinema-seat-allocation](https://github.com/AdityaLoops/leetcode/tree/master/1386-cinema-seat-allocation) |
 | [1638-count-substrings-that-differ-by-one-character](https://github.com/AdityaLoops/leetcode/tree/master/1638-count-substrings-that-differ-by-one-character) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/AdityaLoops/leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
@@ -188,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/AdityaLoops/leetcode/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/AdityaLoops/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0837-new-21-game](https://github.com/AdityaLoops/leetcode/tree/master/0837-new-21-game) |
+| [0904-fruit-into-baskets](https://github.com/AdityaLoops/leetcode/tree/master/0904-fruit-into-baskets) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/AdityaLoops/leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/AdityaLoops/leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## String
