@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0056-merge-intervals](https://github.com/AdityaLoops/leetcode/tree/master/0056-merge-intervals) |
 | [0169-majority-element](https://github.com/AdityaLoops/leetcode/tree/master/0169-majority-element) |
+| [0209-minimum-size-subarray-sum](https://github.com/AdityaLoops/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/AdityaLoops/leetcode/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0560-subarray-sum-equals-k](https://github.com/AdityaLoops/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/AdityaLoops/leetcode/tree/master/0643-maximum-average-subarray-i) |
@@ -188,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/AdityaLoops/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0567-permutation-in-string](https://github.com/AdityaLoops/leetcode/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/AdityaLoops/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0837-new-21-game](https://github.com/AdityaLoops/leetcode/tree/master/0837-new-21-game) |
@@ -235,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/AdityaLoops/leetcode/tree/master/0096-unique-binary-search-trees) |
+| [0209-minimum-size-subarray-sum](https://github.com/AdityaLoops/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/AdityaLoops/leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/AdityaLoops/leetcode/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/AdityaLoops/leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
@@ -283,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/AdityaLoops/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/AdityaLoops/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/AdityaLoops/leetcode/tree/master/0724-find-pivot-index) |
 | [1004-max-consecutive-ones-iii](https://github.com/AdityaLoops/leetcode/tree/master/1004-max-consecutive-ones-iii) |
