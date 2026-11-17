@@ -13,8 +13,7 @@ class Solution:
                     sm =0
             if len(s)%k !=0:
                 curr+= str(sm)
-            print(curr)
+          
             s= curr
-        # if int(s) == 0:
-        #     return s + "0"*(k-len(s))
+
         return s
