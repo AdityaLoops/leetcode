@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1235-maximum-profit-in-job-scheduling](https://github.com/AdityaLoops/leetcode/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1248-count-number-of-nice-subarrays](https://github.com/AdityaLoops/leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/AdityaLoops/leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1352-product-of-the-last-k-numbers](https://github.com/AdityaLoops/leetcode/tree/master/1352-product-of-the-last-k-numbers) |
 | [1386-cinema-seat-allocation](https://github.com/AdityaLoops/leetcode/tree/master/1386-cinema-seat-allocation) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/AdityaLoops/leetcode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1550-three-consecutive-odds](https://github.com/AdityaLoops/leetcode/tree/master/1550-three-consecutive-odds) |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1025-divisor-game](https://github.com/AdityaLoops/leetcode/tree/master/1025-divisor-game) |
 | [1248-count-number-of-nice-subarrays](https://github.com/AdityaLoops/leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/AdityaLoops/leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1352-product-of-the-last-k-numbers](https://github.com/AdityaLoops/leetcode/tree/master/1352-product-of-the-last-k-numbers) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/AdityaLoops/leetcode/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1510-stone-game-iv](https://github.com/AdityaLoops/leetcode/tree/master/1510-stone-game-iv) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/AdityaLoops/leetcode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
@@ -347,6 +349,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0930-binary-subarrays-with-sum](https://github.com/AdityaLoops/leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/AdityaLoops/leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/AdityaLoops/leetcode/tree/master/1248-count-number-of-nice-subarrays) |
+| [1352-product-of-the-last-k-numbers](https://github.com/AdityaLoops/leetcode/tree/master/1352-product-of-the-last-k-numbers) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/AdityaLoops/leetcode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [3364-minimum-positive-sum-subarray](https://github.com/AdityaLoops/leetcode/tree/master/3364-minimum-positive-sum-subarray) |
 | [3903-smallest-stable-index-i](https://github.com/AdityaLoops/leetcode/tree/master/3903-smallest-stable-index-i) |
@@ -424,4 +427,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1882-process-tasks-using-servers](https://github.com/AdityaLoops/leetcode/tree/master/1882-process-tasks-using-servers) |
+## Design
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/AdityaLoops/leetcode/tree/master/1352-product-of-the-last-k-numbers) |
+## Data Stream
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/AdityaLoops/leetcode/tree/master/1352-product-of-the-last-k-numbers) |
 <!---LeetCode Topics End-->
