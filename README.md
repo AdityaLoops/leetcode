@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3903-smallest-stable-index-i](https://github.com/AdityaLoops/leetcode/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/AdityaLoops/leetcode/tree/master/3904-smallest-stable-index-ii) |
 | [3934-smallest-unique-subarray](https://github.com/AdityaLoops/leetcode/tree/master/3934-smallest-unique-subarray) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/AdityaLoops/leetcode/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2140-solving-questions-with-brainpower](https://github.com/AdityaLoops/leetcode/tree/master/2140-solving-questions-with-brainpower) |
 | [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/AdityaLoops/leetcode/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/AdityaLoops/leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/AdityaLoops/leetcode/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Stack
 |  |
 | ------- |
@@ -114,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2567-minimum-score-by-changing-two-elements](https://github.com/AdityaLoops/leetcode/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/AdityaLoops/leetcode/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/AdityaLoops/leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/AdityaLoops/leetcode/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Monotonic Stack
 |  |
 | ------- |
